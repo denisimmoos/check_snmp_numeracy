@@ -33,7 +33,7 @@ my $snmpv2;
 sub help {
 print "\ncheck-snmp-numeracy Nagios check-script to check an OID and
 give it a label and unit string and perform some optional calculation.\n";
-print "\n\nCopyright (c) 2012 - Denis Immoos (d.immoos\@ebm.ch)\n\n";
+print "\n\nCopyright (c) 2012 - Denis Immoos (d.immoos\@gmail.com)\n\n";
 print_usage();
 print <<EOT;
 -v, --verbose
